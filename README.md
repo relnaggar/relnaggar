@@ -36,6 +36,14 @@ From beginner to code conjurer, I can help boost your confidence and results.
 * Nominated 3 times for "Best Student Who Tutors Award"; taught 11 groups of ~20 students across 6 courses.
 * Awarded Associate Fellow of the Higher Education Academy (AFHEA) as recognition of high-quality teaching.
 
+## My skills 🌟
+
+| **Level**                    | **Programming** | **Back end**                  | **Front end**   | **Databases and tools**           |
+|-----------------------------:|:---------------:|:-----------------------------:|:---------------:|:---------------------------------:|
+| **Primary** (6+ years)       | Python, MATLAB  | PHP                           | HTML, Bootstrap | SQL, Git, Unix                    |
+| **Intermediate** (3-5 years) | Java, Haskell   | Django, Django REST Framework | JavaScript, CSS | MySQL, Apache HTTP Server, Docker |
+| **Basic** (1-2 years)        | C#, C           | Ruby on Rails                 | React           | Bash, AWS                         |
+
 ## My education 📚
 
 ### 🥇 Master of Informatics (Computer Science & Intelligent Robotics) / University of Edinburgh
