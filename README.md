@@ -1,6 +1,6 @@
 # Hi, I'm Ramsey 👋
 
-**I'm a software engineer and an educator.**
+**I'm a software engineer and educator.**
 
 You can find out more about me by visiting my personal website or LinkedIn:
 * [rmsy.me](https://rmsy.me)
