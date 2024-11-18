@@ -11,7 +11,7 @@ You can find out more about me by visiting my personal website or LinkedIn:
 As a software engineer, I specialise in full-stack web application development.
 That means I can take your wildest web dreams and turn them into reality, quickly.
 
-### 🖼 My Mona Lisa: A Personal Website / [relnaggar/rmsy.me](https://github.com/relnaggar/rmsy.me)
+### 🖼 My Mona Lisa: A Personal Website / [rmsy.me/projects/rmsy.me](https://rmsy.me/projects/rmsy.me)
 * Built reusable PHP backend from scratch including routing, templating and a 100% spam-free contact form.
 * Crafted intricate frontend HTML/CSS template using Bootstrap, including fully responsive menu and sidebar.
 * Containerised application using Docker; built automated DevOps pipeline; configured AWS and Apache.
