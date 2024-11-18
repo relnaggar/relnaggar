@@ -38,11 +38,11 @@ From beginner to code conjurer, I can help boost your confidence and results.
 
 ## My skills 🌟
 
-| **Level**                    | **Programming** | **Back end**                  | **Front end**   | **Databases and tools**           |
-|-----------------------------:|:---------------:|:-----------------------------:|:---------------:|:---------------------------------:|
-| **Primary** (6+ years)       | Python, MATLAB  | PHP                           | HTML, Bootstrap | SQL, Git, Unix                    |
-| **Intermediate** (3-5 years) | Java, Haskell   | Django, Django REST Framework | JavaScript, CSS | MySQL, Apache HTTP Server, Docker |
-| **Basic** (1-2 years)        | C#, C           | Ruby on Rails                 | React           | Bash, AWS                         |
+| **Level**                    | **Programming**      | **Back end**                  | **Front end**   | **Databases and tools**           |
+|-----------------------------:|:--------------------:|:-----------------------------:|:---------------:|:---------------------------------:|
+| **Primary** (6+ years)       | Python               | PHP                           | HTML, Bootstrap | SQL, Git, Unix                    |
+| **Intermediate** (3-5 years) | Java, MATLB, Haskell | Django, Django REST Framework | JavaScript, CSS | MySQL, Apache HTTP Server, Docker |
+| **Basic** (1-2 years)        | C#, C                | Ruby on Rails                 | React           | Bash, AWS                         |
 
 ## My education 📚
 
